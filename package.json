@@ -1,0 +1,16 @@
+{
+  "name": "api-activity-michael-hadley",
+  "version": "1.0.0",
+  "description": "Using a scripting language of your choice you will:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "commander": "^12.1.0",
+    "form-data": "^4.0.0"
+  }
+}

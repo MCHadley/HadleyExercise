@@ -1,0 +1,36 @@
+{
+  "string1": {
+    "text": "Smartling Tips"
+  },
+  "string2": {
+    "text": "Create a localization strategy and roadmap"
+  },
+  "string3": {
+    "text": "Put the user at the center of your localization strategy"
+  },
+  "string4": {
+    "text": "<li>Code your app for easy translation</li><li>Adhere to platform best practices</li>"
+  },
+  "string6": {
+    "text": "Localize for each region for a truly native experience"
+  },
+  "string7": {
+    "text": "Leverage translation technology and specialized tools"
+  },
+  "string8": {
+    "text": "Use an over-the-air service for translated content delivery"
+  },
+  "string9": {
+    "text": "Tips"
+  },
+  "string10": {
+    "text": "About"
+  },
+  "string11": {
+    "instruction": "The placeholder will be replaced by a file name",
+    "text": "File %@ was being found."
+  },
+  "string12": {
+    "text": "File {{fileName}} is being found."
+  }
+}
